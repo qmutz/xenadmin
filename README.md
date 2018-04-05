@@ -14,8 +14,7 @@ Contributions
 -------------
 
 The preferable way to contribute patches is to fork the repository on Github and
-then submit a pull request. If for some reason you can't use Github to submit a
-pull request, then you may send your patch for review to the
+then submit a pull request.
 
 License
 -------
