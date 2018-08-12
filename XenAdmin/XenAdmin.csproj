@@ -6930,6 +6930,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\splash-xcp-ng\splash-xcp-ng.csproj">
+      <Project>{cd563857-6159-4415-b7b2-a21991f572e3}</Project>
+      <Name>splash-xcp-ng</Name>
+    </ProjectReference>
     <ProjectReference Include="..\XenCenterLib\XenCenterLib.csproj">
       <Project>{9861DFA1-B41F-432D-A43F-226257DEBBB9}</Project>
       <Name>XenCenterLib</Name>
